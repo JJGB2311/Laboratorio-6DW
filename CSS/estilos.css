@@ -1,0 +1,37 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+script{
+font-family: Arial, Helvetica, sans-serif;
+font-family: 30px;
+border: 20px blue solid;
+}
+
+.pp {
+
+  
+    color: white;
+   background: blue;
+   padding: 2%;
+   width: 15%;
+   text-align: center;
+
+}
+
+div{
+
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px; 
+    background:url(../img/color.jpeg);
+    color: white;
+    width: 2%;
+    height: 3%;
+    padding-right: 4%;
+  margin: 1%;
+    display: inline-block;
+}
+
